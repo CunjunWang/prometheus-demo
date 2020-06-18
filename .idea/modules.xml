@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-application-demo/java-application-demo.iml" filepath="$PROJECT_DIR$/java-application-demo/java-application-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prometheus-demo.iml" filepath="$PROJECT_DIR$/.idea/prometheus-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-prometheus-demo/spring-boot-prometheus-demo.iml" filepath="$PROJECT_DIR$/spring-boot-prometheus-demo/spring-boot-prometheus-demo.iml" />
+    </modules>
+  </component>
+</project>
